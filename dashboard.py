@@ -7,7 +7,7 @@ import json
 import time
 
 # API URL - Change for deployment
-API_URL = "http://localhost:8003"
+API_URL = "https://integration-ai.onrender.com"
 
 st.set_page_config(
     page_title="Integration AI",
